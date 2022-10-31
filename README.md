@@ -1,4 +1,4 @@
-#Black Jack
+# Black Jack
 Note: Once you press start game it will be disabled the whole time, use the new game instead 🥳.
 
 Link: https://macky-y.github.io/black-jack/
